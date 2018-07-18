@@ -19,6 +19,12 @@ function whileLoop(number) {
   }
 }}
 
-function doWhileLoop {
+function maybeTrue() {
+  return Math.random() >= 0.5
+}
+
+function doWhileLoop() {
+  do {array;
+  } while ()
   
 }
